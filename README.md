@@ -92,8 +92,10 @@ The LSTM architecture provides the most effective autoregressive text generation
 
 ## 9. Repository Structure
 
+```text
 .
 ├── autoregressive_text_generation.ipynb
 ├── README.md
 ├── requirements.txt
 └── loss_comparison_curves.png
+```
